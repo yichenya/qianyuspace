@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.exe
+*.log
+.env
+*.sql
+*.docx
+*.doc
+*.txt
+.codebuddy/
