@@ -1,3 +1,4 @@
+
 ﻿# 千域空间本地运行说明
 
 ## 已完善内容
@@ -113,4 +114,3 @@ Get-NetTCPConnection -LocalPort 8001 -State Listen |
 ### Redis 没启动
 
 当前本地开发不强依赖 Redis。验证码接口会降级为控制台打印，不影响注册/登录主链路。
-
