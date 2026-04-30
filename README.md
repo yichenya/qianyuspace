@@ -1,6 +1,10 @@
 
 ﻿# 千域空间本地运行说明
 
+![admin图片](images/admin.png)
+![run图片](images/run.png)
+
+
 ## 已完善内容
 
 - 用户端前端：按 `DESIGN.md` 的 Apple 风格落地全局主题、首页视觉、登录/项目/画布/素材/个人中心链路。
